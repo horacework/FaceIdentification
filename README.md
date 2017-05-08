@@ -44,11 +44,15 @@ $ python faceDetectTest.py
 * Keras backend : Theano
 
 ## Install
-See my blog for more details.[horacework.com](http://horacwork.com)
-The installation and configuration of Keras is too complicated. Fuck!
+See my blog for more details. [horacework.com](http://horacwork.com)
+
+The installation and configuration of Keras is too complicated. 
+
+Fuck!
 
 ## Reference
 [Hironsan/BossSensor](https://github.com/Hironsan/BossSensor)
+
 [人脸检测及识别python实现系列](http://www.cnblogs.com/neo-T/p/6477378.html)
 
 ## Licence
