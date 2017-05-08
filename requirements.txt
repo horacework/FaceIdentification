@@ -1,5 +1,6 @@
+scipy
 numpy
 h5py
 Keras
 mock
-scipy
+
